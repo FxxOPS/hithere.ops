@@ -1,2 +1,2 @@
 # hithere.ops
-For games maintaining works in Renren games
+For games maintaining in Renren games
